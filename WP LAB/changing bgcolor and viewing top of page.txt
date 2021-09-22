@@ -1,0 +1,37 @@
+<!Doctype Html>  
+<Html>     
+<Head>      
+<Title>     
+Changing the background color and viewing the top of the page using HTML. 
+</Title>  
+</Head>  
+<Body bgcolor="blue"> 
+<a name="top"></a>
+What is HTML? <br>
+HTML is an acronym which stands for Hyper Text Markup Language which is used for creating web pages and web applications. <br>
+Using different tags, we can make the webpage or web applications more attractive. <br>
+<p>
+Changing the background color <br>
+</p>
+<p></p>
+This page helps you to understand how to change the background color of a web page. <br>  
+<br>  
+And, this section helps you to understand how to change the background color of an Html page using the bgcolor attribute. 
+    In HTML, we can change the color of the background of a webpage using the following different ways: <br>  
+1. Using bgcolor attribute  <br>  
+2. Using an Inline style attribute  <br>  
+3. Using internal CSS <br>
+It is easy to add the background color using any of these attributes. <br>
+Here, we have used the bgcolor attribute. <br>
+</p>
+Viewing the top of the page <br>
+<p>To create a link that goes to the top of a web page
+Open up your HTML file with your preferred text editor such as Notepad or TextEdit. <br>
+Add a HTML anchor just after the ending of the head tag. This is the start of the body code and thus is, by definition, the very top of the page.
+<br>
+Place the code where ever you want the link to appear. Ideally, near the end of each page or section. <br>
+If you have scrolled down and come here, then click on the link below to move to the top of the page.
+</p>
+<a href="#top">Back to top of the page</a>
+</Body>  
+</Html>  

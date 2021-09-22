@@ -1,0 +1,34 @@
+ <! ––Create a webpage with HTML describing your department use paragraph and list tags.––>
+<!DOCTYPE html>
+<html>
+<head>
+    <title> DEPARTMENT </title>
+</head>
+<body>
+    <p>Departments Of Our College:<p>
+    <ol>
+    <li>IT</li>
+    <li>CSE</li>
+    <li>EEE</li>
+    <li>ECE</li>
+    </ol>
+    
+    <dl>
+    <dt>IT</dt>
+    <dd>Information Technology:
+    <Pre><ul><li>Information Technology is designed to provide students with the basic skills necessary to identify, to access and to utilize task appropriate information.</li><li> Students will learn to evaluate information sources and to apply good research strategies.</li></ul></Pre></dd>
+    
+    <dt>CSE</dt>
+    <dd>Computer Science Engineering:
+    <Pre><ul><li>Computer Science Engineering is is a course that deals with design, implementation, and management of information systems of both software & hardware processes.</li><li>It aids with various disciplines such as electrical and electronics engineering, information technology, software engineering, and more.</li></ul></Pre></dd>
+    
+    <dt>EEE</dt>
+    <dd>Electrical & Electronics Engineering:
+    <Pre><ul><li>Electronics engineers analyze the requirements and costs of electrical systems. Electrical engineers design, develop, test, and supervise the manufacture of electrical equipment, such as electric motors, radar and navigation systems, communications systems, or power generation equipment.</li></ul></Pre></dd>
+    
+    <dt>ECE</dt>
+    <dd>Electronics and Communications Engineering:
+    <Pre><ul><li>Electronics and Communication Engineering (ECE) compiles in Communication Engineering and core Electronics Engineering.</li><li>The course concept is to focus mainly on the communication part with the knowledge of the electronics field.</li></ul></Pre></dd>
+   </dl>
+</body>
+</html>

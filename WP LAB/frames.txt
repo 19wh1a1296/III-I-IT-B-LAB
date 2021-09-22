@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+      <title>HTML Frames</title>
+   </head>
+
+   <frameset cols = "20%,60%,20%">
+<a href="https://en.wikipedia.org/wiki/Rose" > <frame name="left" src="C:/Users/pc/OneDrive/Desktop/rose.jpg"></a>
+ <a href="https://en.wikipedia.org/wiki/Lilium" ><frame  name="middle" src="C:/Users/pc/OneDrive/Desktop/lilium.jpg"></a>
+ <a href="https://en.wikipedia.org/wiki/Yardley" ><frame name="right" src="C:/Users/pc/OneDrive/Desktop/yardley.jpg"></a>
+
+   
+      
+   </frameset>
+
+</html>
