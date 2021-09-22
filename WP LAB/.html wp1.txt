@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+   
+   <head>
+      <title>HTML Frames</title>
+   </head>
+   
+   <frameset cols = "20%,60%,20%">
+      <frame name = "left"/>
+      <frame name = "center" />
+      <frame name = "right" />
+      
+      <noframes>
+         <body>Your browser does not support frames.</body>
+      </noframes>
+   </frameset>
+   
+</html>

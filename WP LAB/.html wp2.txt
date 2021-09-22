@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>Department Details</title>
+</head>
+<body>
+<p>Iam Pursuing my 3rd year of Btech in IT Department in BVRIT Hyderabad College of Engineering for Women </br>
+Subjects:- </br></p>
+<ul>
+<li>FLAT</li>
+<li>ML</li>
+<li>DA</li>
+<li>WP</li>
+<li>SE</li>
+</ul>

@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Inserting Links></title>
+<head>
+<body>
+<a href = "https://www.google.com/search?q=wifi&oq=wifi&aqs=chrome..69i57j0i433i512l4j0i131i433j0i433i512l3j0i512.1339j0j7&sourceid=chrome&ie=UTF-8">Wi-Fi</a></br>
+<a href = "https://www.google.com/search?q=lan&ei=xdNGYcjNMrfSz7sProaSKA&oq=lan&gs_lcp=Cgdnd3Mtd2l6EAMyCQgAEEMQRhD7ATIECAAQQzIECAAQQzILCC4QgAQQxwEQrwEyCAgAEIAEELEDMgcIABCxAxAKMgUIABCABDILCAAQgAQQsQMQgwEyDgguEIAEELEDEMcBEKMCMggIABCABBCxAzoHCAAQRxCwAzoHCAAQsAMQQzoHCAAQsQMQQzoICAAQsQMQgwE6BAguEEM6DgguEIAEELEDEMcBENEDOgUIABCRAjoICC4QgAQQsQM6BQgAELEDOgsILhCABBDHARDRAzoKCC4QxwEQ0QMQQzoFCC4QgARKBAhBGABQ3PQDWNuBBGCAhARoAnACeACAAdsBiAGpB5IBBTAuNS4xmAEAoAEBsAEAyAEKwAEB&sclient=gws-wiz&ved=0ahUKEwiIxJXnr4rzAhU36XMBHS6DBAUQ4dUDCA4&uact=5">LAN</a>
+</body>
+<html>

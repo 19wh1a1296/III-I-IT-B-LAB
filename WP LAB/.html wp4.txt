@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title><Inserting Image As Link></title>
+</head>
+<body>
+<a href="https://upload.wikimedia.org/wikipedia/en/3/3b/The_Originals_intertitle.png"><img src ="https://m.media-amazon.com/images/M/MV5BNDllZjc2NjEtOGMwZS00ZmNkLTg2NDgtZjJkYjg0YjMxM2FmXkEyXkFqcGdeQXVyNzA5NjUyNjM@._V1_.jpg"></a>
+</body>
